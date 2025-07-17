@@ -1,0 +1,21 @@
+{
+    "name": "unity-webgl-server",
+    "version": "1.0.0",
+    "description": "Simple HTTP server for Unity WebGL builds with proper gzip handling",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "keywords": [
+        "unity",
+        "webgl",
+        "server",
+        "gzip"
+    ],
+    "author": "",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
